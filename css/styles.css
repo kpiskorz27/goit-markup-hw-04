@@ -239,7 +239,7 @@ a {
   margin-bottom: 16px;
 }
 .footer-social-media-icons {
-  fill: #f4f4fd;
+  fill: var(--CLOUD);
 }
 .studio-footer {
   color: var(--CLOUD);
